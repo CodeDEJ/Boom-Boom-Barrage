@@ -7,3 +7,4 @@ Parents will often get children playing instruments at an early age, and there a
 The BBB is a simple sound board with 4 types of drums that your child can experiment making sounds with. Allow them to explore making music like they will making syllables. As the child advances, more features (recording, manual arrangement) can be added on. 
 
 
+# boom-boom-barrage
