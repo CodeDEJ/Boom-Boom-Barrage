@@ -24,13 +24,11 @@ public class Player {
         }
     }
 
-    // size of the byte buffer used to read/write the audio stream
     private static final int BUFFER_SIZE = 131072;
 
     public Player() throws IOException {
         System.out.println(path);
     }
-
 
     void play(String audioFilePath) {
         File audioFile = new File(audioFilePath);
